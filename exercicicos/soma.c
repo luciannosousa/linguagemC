@@ -9,5 +9,5 @@ void main() {
 
     soma= num1 + num2;
     printf("resultado da soma: %d", soma);
-    
+
 }
